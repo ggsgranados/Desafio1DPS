@@ -1,0 +1,14 @@
+{
+    "elementos":[
+      {"id":"1","nombre":"Manzana", "precio":"$0.50"},
+      {"id":"2","nombre":"Pollo", "precio":"$4.00"},
+      {"id":"3","nombre":"Cereal", "precio":"$1.25"},
+      {"id":"4","nombre":"Soda", "precio":"$2.00"},
+      {"id":"5","nombre":"Leche", "precio":"$1.75"},
+      {"id":"6","nombre":"Mayonesa", "precio":"$0.50"},
+      {"id":"7","nombre":"Pasta", "precio":"$1.50"},
+      {"id":"8","nombre":"Salsa", "precio":"$0.50"},
+      {"id":"9","nombre":"Embutidos", "precio":"$1.00"},
+      {"id":"10","nombre":"Queso", "precio":"$0.75"}
+    ]
+    }
